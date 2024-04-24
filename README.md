@@ -5,7 +5,6 @@
 	<br><br>
  
 	Developer & designer born in Russia.
- 	Learn Java.
   	Freely speaking Russian & English.
 </div>
 
