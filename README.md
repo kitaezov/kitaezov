@@ -35,7 +35,8 @@
 	<summary></summary><br>
 	<img src="https://github.com/kitaezov/kitaezov/blob/main/img/social.svg""/>
 	<br><br>
-  	<a href="https://t.me/k1taezov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="50"/></a>
+  	<a href="https://t.me/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="50"/></a>
+	<a href="https://discord.com/users/492044354714861570"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
 	</details>	
 </div>
 
