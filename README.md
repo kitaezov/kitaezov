@@ -22,8 +22,7 @@
 	<details>
 	<summary>Frameworks & Other stuff</summary>
 		<br>
-		<img src="https://skillicons.dev/icons?i=mysql,nosql,sql,fastapi,discord,docker,django"/><br>
-	</details>
+		<img src="https://skillicons.dev/icons?i=mysql,sql,fastapi,discord,docker,django"/><br>
 	</details>
 </div>
 
