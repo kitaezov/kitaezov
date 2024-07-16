@@ -28,7 +28,7 @@
         <details>
             <summary>Frameworks & Other stuff</summary>
             		<br>
-            		<img src="https://skillicons.dev/icons?i=git,mysql,sql,nosql,fastapi,discord"/><br>
+            		<img src="https://skillicons.dev/icons?i=git,mysql,sql,fastapi,discord"/><br>
               		<a>And more...</a>		
             </details>
         </details>
