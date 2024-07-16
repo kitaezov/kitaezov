@@ -6,7 +6,8 @@
     <img src="https://github.com/kitaezov/kitaezov/blob/main/img/kitaezov.svg" alt="kitaezov logo" />
     <br>
     <br>
-    <p>Developer & designer born in Russia. Freely speaking Russian & English.</p>
+    <p>Developer & designer born in Russia. 
+       Freely speaking Russian & English.</p>
 </div>
 
 ----
@@ -27,7 +28,7 @@
         <details>
             <summary>Frameworks & Other stuff</summary>
             		<br>
-            		<img src="https://skillicons.dev/icons?i=git,mysql,fastapi,discord"/><br>
+            		<img src="https://skillicons.dev/icons?i=git,mysql,sql,nosql,fastapi,discord"/><br>
               		<a>And more...</a>		
             </details>
         </details>
