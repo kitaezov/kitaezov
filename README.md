@@ -26,12 +26,11 @@
         <br>
         <details>
             <summary>Frameworks & Other stuff</summary>
-            <br>
-            <img src="https://skillicons.dev/icons?i=mysql,sql,fastapi,discord,docker,django" alt="Frameworks and tools" />
-            <br>
-            <br>
+            		<br>
+            		<img src="https://skillicons.dev/icons?i=git,mysql,fastapi,discord"/><br>
+              		<a>And more...</a>		
+            </details>
         </details>
-    </details>
 </div>
 
 ----
