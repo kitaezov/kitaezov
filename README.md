@@ -1,11 +1,18 @@
 <div align="center">
-    <img src="https://api.statusbadges.me/badge/status/492044354714861570" alt="status badge" />
-    <img src="https://komarev.com/ghpvc/?username=kitaezov&color=9963B3" alt="Profile views count" />
-    <br><br>
-    <img src="https://github.com/kitaezov/kitaezov/blob/main/img/kitaezov.svg" alt="kitaezov logo" />
-    <br><br>
-    <p>Developer & designer born in Russia.<br>
-       Freely speaking Russian & English.</p>
+  <!-- Nickname -->
+  <h1>Unit</h1>
+  <br>
+  <!-- Orbit logo -->
+  <img src="img/orbit_v2.svg" alt="kitaezov orbit logo" height="140" />
+  <br><br>
+
+  <!-- Typing tagline -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=9963B3&center=true&vCenter=true&width=850&lines=Developer+%26+Designer;Python%2C+Java%2C+JS%2FTS%2C+Go%2C+Rust;Clean+UX+%2B+Reliable+Backends;Always+learning+%F0%9F%93%9A" alt="typing intro" />
+  <br>
+
+  <!-- Badges -->
+  <img src="https://api.statusbadges.me/badge/status/492044354714861570" alt="discord status" />
+  <img src="https://komarev.com/ghpvc/?username=kitaezov&color=9963B3" alt="profile views" />
 </div>
 
 ---
