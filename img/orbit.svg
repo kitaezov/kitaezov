@@ -1,0 +1,55 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="grad" x1="0" y1="0" x2="140" y2="140" gradientUnits="userSpaceOnUse">
+			<stop offset="0%" stop-color="#9963B3"/>
+			<stop offset="100%" stop-color="#CDA9E2"/>
+		</linearGradient>
+		<radialGradient id="dot" cx="50%" cy="50%" r="50%">
+			<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+			<stop offset="70%" stop-color="#CDA9E2"/>
+			<stop offset="100%" stop-color="#9963B3"/>
+		</radialGradient>
+		<radialGradient id="ringFade" cx="50%" cy="50%" r="65%">
+			<stop offset="0%" stop-color="#CDA9E2" stop-opacity="0.18"/>
+			<stop offset="60%" stop-color="#CDA9E2" stop-opacity="0.06"/>
+			<stop offset="100%" stop-color="#9963B3" stop-opacity="0"/>
+		</radialGradient>
+		<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+			<feGaussianBlur stdDeviation="2" result="blur"/>
+			<feMerge>
+				<feMergeNode in="blur"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter>
+	</defs>
+
+	<!-- мягкий фон -->
+	<circle cx="70" cy="70" r="50" fill="url(#grad)" opacity="0.08"/>
+
+	<!-- орбиты (уменьшенные, с плавным переходом) -->
+	<g filter="url(#glow)">
+		<circle cx="70" cy="70" r="34" stroke="url(#grad)" stroke-width="1.8" opacity="0.55" fill="none"/>
+		<circle cx="70" cy="70" r="28" stroke="url(#grad)" stroke-width="1.6" opacity="0.35" fill="none"/>
+		<circle cx="70" cy="70" r="22" stroke="url(#grad)" stroke-width="1.4" opacity="0.22" fill="none"/>
+	</g>
+
+	<!-- мягкая заливка для плавного переливания -->
+	<circle cx="70" cy="70" r="32" fill="url(#ringFade)" opacity="0.35"/>
+
+	<!-- группа шариков вращается вокруг центра -->
+	<g>
+		<g>
+			<!-- 6 шариков по уменьшенной орбите -->
+			<circle cx="104" cy="70" r="4" fill="url(#dot)"/>
+			<circle cx="87" cy="99" r="3.6" fill="url(#dot)"/>
+			<circle cx="53" cy="99" r="3.2" fill="url(#dot)"/>
+			<circle cx="36" cy="70" r="3.8" fill="url(#dot)"/>
+			<circle cx="53" cy="41" r="3.2" fill="url(#dot)"/>
+			<circle cx="87" cy="41" r="3.6" fill="url(#dot)"/>
+			<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 70 70" to="360 70 70" dur="8s" repeatCount="indefinite"/>
+		</g>
+	</g>
+
+	<!-- центральная точка -->
+	<circle cx="70" cy="70" r="3" fill="#9963B3" opacity="0.9"/>
+</svg>
