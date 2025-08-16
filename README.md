@@ -30,17 +30,6 @@
 
 ---
 
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kitaezov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=kitaezov&theme=tokyonight&hide_border=true&background=FFFFFF00" height="150" alt="streak"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kitaezov&theme=dracula&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="trophies"/>
-</div>
-
----
-
 ### Contacts
 
 <div align="center">
