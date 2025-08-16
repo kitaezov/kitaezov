@@ -33,7 +33,7 @@
 
 <div align="center">
     <details open>
-        <summary><strong>Skills</strong></summary>
+        <summary><strong>Навыки</strong></summary>
         <br>
         <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/skills.svg?v=1" alt="skills" />
         <br><br>
@@ -43,10 +43,34 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" width="50" alt="Photoshop" />
         <br><br>
         <details>
-            <summary><strong>Frameworks & Tools</strong></summary>
+            <summary><strong>Веб‑разработка</strong></summary>
             <br>
-            <img src="https://skillicons.dev/icons?i=spring,git,mysql,fastapi,discord" /><br>
-            <p>And more...</p>      
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,vite" />
+        </details>
+        <details>
+            <summary><strong>Бэкенд</strong></summary>
+            <br>
+            <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,java,python,go,graphql" />
+        </details>
+        <details>
+            <summary><strong>Базы данных</strong></summary>
+            <br>
+            <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,prisma" />
+        </details>
+        <details>
+            <summary><strong>DevOps</strong></summary>
+            <br>
+            <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux" />
+        </details>
+        <details>
+            <summary><strong>Тестирование и качество</strong></summary>
+            <br>
+            <img src="https://skillicons.dev/icons?i=jest,pytest,eslint,prettier" />
+        </details>
+        <details>
+            <summary><strong>Инструменты</strong></summary>
+            <br>
+            <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
         </details>
     </details>
 </div>
