@@ -30,37 +30,6 @@
 
 ---
 
-### Skills
-
-<div align="center">
-  <details open>
-    <summary><b>Programming Languages</b></summary>
-    <br>
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,rust,cs,cpp,kotlin,swift,dart,php,ruby,lua,zig,solidity&perline=12" alt="languages"/>
-    <br><br>
-  </details>
-
-  <details>
-    <summary><b>Frameworks & Tools</b></summary>
-    <br>
-    <!-- web/app -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,express,nodejs,fastapi,spring&perline=12" alt="frameworks"/>
-    <br><br>
-    <!-- data/db/devops -->
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,graphql,docker,kubernetes,nginx&perline=12" alt="db-devops"/>
-    <br><br>
-    <!-- tooling -->
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,aws,gcp,azure,vercel,cloudflare,postman&perline=12" alt="tooling"/>
-    <br><br>
-    <!-- design / 3D / editors -->
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,blender,unity,unreal,vscode,idea,androidstudio&perline=12" alt="design-3d-editors"/>
-    <br>
-    <sub>And more...</sub>
-  </details>
-</div>
-
----
-
 ### Stats
 
 <div align="center">
