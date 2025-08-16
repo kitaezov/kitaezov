@@ -19,7 +19,7 @@
     <details open>
         <summary><img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/title_skills.svg?v=1" alt="Skills" /></summary>
         <details>
-            <summary><strong>Web</strong></summary>
+            <summary><strong>Wеb</strong></summary>
             <br>
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,vite" />
         </details>
