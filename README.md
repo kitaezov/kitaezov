@@ -17,43 +17,19 @@
 
 <div align="center">
     <details open>
-        <summary><strong>Stats</strong></summary>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=kitaezov&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitaezov&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages"/>
-        <br><br>
-        <img src="https://streak-stats.demolab.com?user=kitaezov&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-        <br><br>
-        <img src="https://github-profile-trophy.vercel.app/?username=kitaezov&theme=dracula&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-    </details>
-  </div>
-
----
-
-<div align="center">
-    <details open>
         <summary><img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/title_skills.svg?v=1" alt="Skills" /></summary>
-        <br>
-        <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/skills.svg?v=1" alt="skills" />
-        <br><br>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" width="50" alt="Python" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg" width="50" alt="Java" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" width="50" alt="Figma" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" width="50" alt="Photoshop" />
-        <br><br>
         <details>
-            <summary><strong>Веб‑разработка</strong></summary>
+            <summary><strong>Web</strong></summary>
             <br>
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,vite" />
         </details>
         <details>
-            <summary><strong>Бэкенд</strong></summary>
+            <summary><strong>Backend</strong></summary>
             <br>
             <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,java,python,go,graphql" />
         </details>
         <details>
-            <summary><strong>Базы данных</strong></summary>
+            <summary><strong>DB</strong></summary>
             <br>
             <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,prisma" />
         </details>
@@ -63,12 +39,12 @@
             <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux" />
         </details>
         <details>
-            <summary><strong>Тестирование и качество</strong></summary>
+            <summary><strong>Test</strong></summary>
             <br>
             <img src="https://skillicons.dev/icons?i=jest,pytest,eslint,prettier" />
         </details>
         <details>
-            <summary><strong>Инструменты</strong></summary>
+            <summary><strong>Tools</strong></summary>
             <br>
             <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
         </details>
@@ -79,23 +55,8 @@
 
 <div align="center">
     <details open>
-        <summary><strong>Activity</strong></summary>
-        <br>
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kitaezov/kitaezov/output/github-contribution-grid-snake-dark.svg" />
-            <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/output/github-contribution-grid-snake.svg" alt="snake animation" />
-        </picture>
-    </details>
-  </div>
-
----
-
-<div align="center">
-    <details open>
         <summary><img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/title_social.svg?v=1" alt="Social" /></summary>
         <br>
-        <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/social.svg?v=1" alt="social media" />
-        <br><br>
         <a href="https://t.me/about_kitaezov"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" alt="Telegram" /></a>
         <a href="https://discord.com/users/492044354714861570"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50" alt="Discord" /></a>
     </details>
