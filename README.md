@@ -33,7 +33,7 @@
 
 <div align="center">
     <details open>
-        <summary><strong>Навыки</strong></summary>
+        <summary><img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/title_skills.svg?v=1" alt="Skills" /></summary>
         <br>
         <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/skills.svg?v=1" alt="skills" />
         <br><br>
@@ -92,7 +92,7 @@
 
 <div align="center">
     <details open>
-        <summary><strong>Contacts</strong></summary>
+        <summary><img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/title_social.svg?v=1" alt="Social" /></summary>
         <br>
         <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/social.svg?v=1" alt="social media" />
         <br><br>

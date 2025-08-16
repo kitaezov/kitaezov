@@ -1,0 +1,42 @@
+<svg width="700" height="100" viewBox="0 0 700 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9963B3"/>
+      <stop offset="50%" stop-color="#CDA9E2"/>
+      <stop offset="100%" stop-color="#9963B3"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-350 0" to="350 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#CDA9E2" stop-opacity="0.18"/>
+      <stop offset="70%" stop-color="#9963B3" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="700" height="100" fill="none"/>
+  <ellipse cx="350" cy="55" rx="300" ry="30" fill="url(#glowGrad)">
+    <animate attributeName="rx" values="300;320;300" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.7;0.5" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g filter="url(#textGlow)" opacity="0.95">
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="3.8s" repeatCount="indefinite"/>
+    <text x="50%" y="58" text-anchor="middle" fill="url(#textGrad)" font-size="54" font-family="'JetBrains Mono','Segoe UI',Ubuntu,Arial,sans-serif" font-weight="800" letter-spacing="2">Social</text>
+    <text x="50%" y="58" text-anchor="middle" fill="none" stroke="#CDA9E2" stroke-opacity="0.25" stroke-width="1.2" font-size="54" font-family="'JetBrains Mono','Segoe UI',Ubuntu,Arial,sans-serif" font-weight="800" letter-spacing="2">Social</text>
+  </g>
+
+  <linearGradient id="lineGrad" x1="0" y1="0" x2="700" y2="0">
+    <stop offset="0%" stop-color="#9963B3"/>
+    <stop offset="50%" stop-color="#CDA9E2"/>
+    <stop offset="100%" stop-color="#9963B3"/>
+  </linearGradient>
+  <rect x="155" y="72" width="390" height="2" fill="url(#lineGrad)" opacity="0.9"/>
+</svg>
+
