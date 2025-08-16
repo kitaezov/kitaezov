@@ -65,6 +65,18 @@
     </circle>
   </g>
 
+  <!-- Underline shimmer -->
+  <g>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0%" stop-color="#9963B3"/>
+      <stop offset="50%" stop-color="#CDA9E2">
+        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#9963B3"/>
+    </linearGradient>
+    <rect x="240" y="208" width="520" height="2" fill="url(#lineGrad)" opacity="0.9"/>
+  </g>
+
   <!-- Title -->
   <g filter="url(#textGlow)">
     <text x="50%" y="52%" text-anchor="middle" fill="url(#textGrad)" font-size="88" font-family="'JetBrains Mono', 'Segoe UI', Ubuntu, Arial, sans-serif" font-weight="800" letter-spacing="2">
@@ -79,17 +91,5 @@
   <text x="50%" y="70%" text-anchor="middle" fill="#c9d1d9" opacity="0.85" font-size="20" font-family="'JetBrains Mono', 'Segoe UI', Ubuntu, Arial, sans-serif" font-weight="600">
     Developer · Designer · Clean UX + Reliable Backends
   </text>
-
-  <!-- Underline shimmer -->
-  <g>
-    <linearGradient id="lineGrad" x1="0" y1="0" x2="1000" y2="0">
-      <stop offset="0%" stop-color="#9963B3"/>
-      <stop offset="50%" stop-color="#CDA9E2">
-        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#9963B3"/>
-    </linearGradient>
-    <rect x="240" y="182" width="520" height="2" fill="url(#lineGrad)" opacity="0.9"/>
-  </g>
 </svg>
 
