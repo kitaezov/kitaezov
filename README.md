@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Hero banner -->
-  <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/hero.svg?v=1" alt="Unit hero" width="1000" />
+  <img src="https://raw.githubusercontent.com/kitaezov/kitaezov/main/img/hero.svg?v=1" alt="Unit hero" width="1001" />
   <br>
   <br>
 
